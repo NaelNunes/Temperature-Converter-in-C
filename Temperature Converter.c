@@ -47,7 +47,7 @@ int main()
 		}
 	}
 	
-		if ( indicator == 3) {
+	if ( indicator == 3) {
 		printf("Now choose the temperature to convert: \n");
 		printf("1 - CELSIUS | 2 - FAHRENHEIT | ");
 		scanf("%d", &indicator1C);
